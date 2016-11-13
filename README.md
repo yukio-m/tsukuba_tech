@@ -8,7 +8,9 @@
 
 http://www.ntut-braille-net.org/request/request_11.php
 
-PDF版、点字版、EPUB版があります。
+ID: inf15-04
+
+点訳版、PDF版、EPUB版があります。
 
 -----
 
@@ -16,5 +18,7 @@ Textbooks can be downloaded from following URL:
 
 http://www.ntut-braille-net.org/request/request_11.php
 
-There are PDF version, Braille version, EPUB version.
+ID: inf15-04
+
+There are  Braille version, PDF version and EPUB version.
 
