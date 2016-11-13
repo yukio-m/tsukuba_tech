@@ -14,9 +14,9 @@ ID: inf15-04
 
 -----
 
-Textbooks can be downloaded from following URL:
+Textbooks can be downloaded from the following URL:
 
-http://www.ntut-braille-net.org/request/request_11.php
+http://www.ntut-braille-net.org/request/request_11.php.
 
 ID: inf15-04
 
